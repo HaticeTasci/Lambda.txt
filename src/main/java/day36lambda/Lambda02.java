@@ -1,2 +1,5 @@
-package day36lambda;public class Lambda02 {
+package day36lambda;
+
+public class Lambda02 {
+
 }
