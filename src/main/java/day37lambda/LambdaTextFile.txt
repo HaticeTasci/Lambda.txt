@@ -1,0 +1,5 @@
+Java bitmek üzere.
+Lambda kullanmayi ogrenirseniz List'ler ile calismak kolaylasir.
+Lambda Functional Programming'dir.
+Lambda'da var olan method'lar kullanarak islamlerimizi yapabiliriz.
+Java is easy...
