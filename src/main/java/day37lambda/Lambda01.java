@@ -3,6 +3,7 @@ package day37lambda;
 import day36lambda.Utils;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 import java.util.stream.IntStream;
 
@@ -23,6 +24,7 @@ public class Lambda01 {
         System.out.println(getFaktoriyel(5));//120
         System.out.println(getSumOfSayi(15, 4));//36
         System.out.println(getTamsayi(12, 18));//30
+
 
     }
 
@@ -86,6 +88,7 @@ public class Lambda01 {
 
 
     }
+
 }
 
 

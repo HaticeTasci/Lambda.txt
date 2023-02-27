@@ -31,7 +31,7 @@ public class Ternary01 {
         System.out.println(r3);
         //object bir data tipidir.object parenti olmayan tek data tipidir.objeckt her data tipinin parentidir.
         //butun classlarin ortak babasidir.Hz.Adem örnegi.farkli data tiplerini object icinde calistirir.orn .strtring ve int objeckte yazdirabiliriz.
-        //
+        //ornekleri.
 
 
 
