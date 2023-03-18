@@ -4,13 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b8e232e-a84e-4989-8278-2f100c2e9c4d" name="Changes" comment="Commit lambda.java.example.lambda again">
-      <change afterPath="$PROJECT_DIR$/src/main/java/arrays/Arrays01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/arrays/Arrays02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/arrays/Arrays03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/byPass_value/PassByValue003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/byPass_value/PassByValue01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/byPass_value/PassByValue02.java" afterDir="false" />
+    <list default="true" id="2b8e232e-a84e-4989-8278-2f100c2e9c4d" name="Changes" comment="Commit lambda.java.example arrays and PassbyValues">
+      <change afterPath="$PROJECT_DIR$/src/main/java/arrays/Arrays04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dateTime/Date02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/methodd/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/methodd/Method01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/methodd/Method02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/methodd/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/scanner_ssg/Scanner01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/scanner_ssg/Scanner02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/scanner_ssg/Scanner03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/string/Calisma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/string/IfStatement01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/string/IfStatement02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/string/IfStatement03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/string/Ifstatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/string/Q01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/string/Q02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/string/Q033.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/string/QO4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/string/String01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/string/String02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/string/String03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/variables_data/VARIABLE03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/variables_data/Variable01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/variables_data/Variable02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/wrapperclass/Q02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/wrapperclass/Q023.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/wrapperclass/Wrapper01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,13 +73,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.PassByValue01">
-    <configuration name="Arrays01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.Arrays01" />
+  <component name="RunManager" selected="Application.QO4">
+    <configuration name="Calisma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.Calisma" />
       <module name="techpro2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arrays.*" />
+          <option name="PATTERN" value="string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lambda01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day37lambda.Lambda01" />
+    <configuration name="IfStatement01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.IfStatement01" />
       <module name="techpro2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day37lambda.*" />
+          <option name="PATTERN" value="string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lambda02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day37lambda.Lambda02" />
+    <configuration name="IfStatement02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.IfStatement02" />
       <module name="techpro2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day37lambda.*" />
+          <option name="PATTERN" value="string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,25 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="List01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day37list.List01" />
+    <configuration name="IfStatement03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.IfStatement03" />
       <module name="techpro2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day37list.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PassByValue01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="byPass_value.PassByValue01" />
-      <module name="techpro2020" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="byPass_value.*" />
+          <option name="PATTERN" value="string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,13 +139,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="QO4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.QO4" />
+      <module name="techpro2020" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PassByValue01" />
-        <item itemvalue="Application.Arrays01" />
-        <item itemvalue="Application.List01" />
-        <item itemvalue="Application.Lambda02" />
-        <item itemvalue="Application.Lambda01" />
+        <item itemvalue="Application.QO4" />
+        <item itemvalue="Application.IfStatement03" />
+        <item itemvalue="Application.IfStatement02" />
+        <item itemvalue="Application.IfStatement01" />
+        <item itemvalue="Application.Calisma" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +199,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677494729589</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Commit lambda.java.example arrays and PassbyValues">
+      <created>1677536034560</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1677536034560</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -197,6 +225,18 @@
     <MESSAGE value="Java Lambda day37Lambda Example1" />
     <MESSAGE value="Commit lambda.java.example.lambda" />
     <MESSAGE value="Commit lambda.java.example.lambda again" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit lambda.java.example.lambda again" />
+    <MESSAGE value="Commit lambda.java.example arrays and PassbyValues" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit lambda.java.example arrays and PassbyValues" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/methodd/Method01.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
