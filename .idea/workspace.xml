@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b8e232e-a84e-4989-8278-2f100c2e9c4d" name="Changes" comment="Commit lambda.java.example arrays and PassbyValues" />
+    <list default="true" id="2b8e232e-a84e-4989-8278-2f100c2e9c4d" name="Changes" comment="Commit lambda.java.example arrays and PassbyValues">
+      <change afterPath="$PROJECT_DIR$/src/main/java/wrapperclass/MyfirstSharing.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
