@@ -4,36 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b8e232e-a84e-4989-8278-2f100c2e9c4d" name="Changes" comment="Commit lambda.java.example arrays and PassbyValues">
-      <change afterPath="$PROJECT_DIR$/src/main/java/arrays/Arrays04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dateTime/Date02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/methodd/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/methodd/Method01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/methodd/Method02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/methodd/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/scanner_ssg/Scanner01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/scanner_ssg/Scanner02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/scanner_ssg/Scanner03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/string/Calisma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/string/IfStatement01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/string/IfStatement02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/string/IfStatement03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/string/Ifstatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/string/Q01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/string/Q02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/string/Q033.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/string/QO4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/string/String01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/string/String02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/string/String03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/variables_data/VARIABLE03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/variables_data/Variable01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/variables_data/Variable02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/wrapperclass/Q02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/wrapperclass/Q023.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/wrapperclass/Wrapper01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2b8e232e-a84e-4989-8278-2f100c2e9c4d" name="Changes" comment="Commit lambda.java.example arrays and PassbyValues" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
