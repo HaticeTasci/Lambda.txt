@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b8e232e-a84e-4989-8278-2f100c2e9c4d" name="Changes" comment="Commit lambda.java.example arrays and PassbyValues" />
+    <list default="true" id="2b8e232e-a84e-4989-8278-2f100c2e9c4d" name="Changes" comment="Commit lambda.java.example arrays and PassbyValues">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Arrayss/Q01.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,20 +46,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.QO4">
-    <configuration name="Calisma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string.Calisma" />
-      <module name="techpro2020" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="string.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Q01">
     <configuration name="IfStatement01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="string.IfStatement01" />
       <module name="techpro2020" />
@@ -110,6 +99,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Q01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrayss.Q01" />
+      <module name="techpro2020" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrayss.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="QO4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="string.QO4" />
       <module name="techpro2020" />
@@ -125,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q01" />
         <item itemvalue="Application.QO4" />
         <item itemvalue="Application.IfStatement03" />
         <item itemvalue="Application.IfStatement02" />
         <item itemvalue="Application.IfStatement01" />
-        <item itemvalue="Application.Calisma" />
       </list>
     </recent_temporary>
   </component>
